@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
 
 /* Force Figtree everywhere inside the form */
-#fo186li1 {
+.wufoo {
   font-family: "Figtree", sans-serif !important;
   font-weight: 400 !important;
   font-style: normal !important;
