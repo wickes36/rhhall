@@ -25,3 +25,16 @@ body.wufoo,
     padding: 10px;
     border: 0;
 }
+
+/* Smartphones (portrait and landscape) */
+@media only screen and (max-width: 767px) {
+#saveForm {
+    position: relative;
+    top: 15;
+    left: 90px;
+    background-color: #e6002d;
+    color: #ffffff;
+    padding: 10px;
+    border: 0;
+}
+}
